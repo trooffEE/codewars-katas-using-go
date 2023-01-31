@@ -2,7 +2,7 @@
 // Ginkgo BDD Testing Framework <http://onsi.github.io/ginkgo/>
 // Gomega Matcher Library <http://onsi.github.io/gomega/>
 
-package kata_test
+package kata
 import (
     . "github.com/onsi/ginkgo"
     . "github.com/onsi/gomega"
